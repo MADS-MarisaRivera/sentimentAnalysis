@@ -3,8 +3,6 @@
 ## Topic Modeling Project
 
 ## Project Structure
-├── LICENSE
-
 ├── README.md          <- The top-level README for developers using this project.
 
 ├── data
@@ -26,10 +24,6 @@
 │                         the creator's initials, and a short `-` delimited description, e.g.
 
 │                         `1.0-jqp-initial-data-exploration`.
-
-│
-
-├── references         <- Data dictionaries, manuals, and all other explanatory materials.
 
 │
 
