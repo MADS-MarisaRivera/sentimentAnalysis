@@ -1,6 +1,3 @@
-import spacy
-nlp = spacy.load("en_core_web_lg")
-
 from typing import List
 from fastapi import FastAPI, Query
 # from pydantic import BaseModel
