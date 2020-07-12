@@ -1,5 +1,8 @@
-# sentimentAnalysis
+# Sentiment Analysis
 
+## Topic Modeling Project
+
+## Project Structure
 ├── LICENSE
 
 ├── Makefile           <- Makefile with commands like `make data` or `make train`
